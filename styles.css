@@ -1,0 +1,24 @@
+.task-wrapper{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display:flex;
+    justify-content: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    align-items: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    height:100vh;
+    width:100%;
+}
+.container1, .container2 {
+    width:240px;
+    height:272px;
+}
+.container1 {
+    margin-right:30px;
+}
